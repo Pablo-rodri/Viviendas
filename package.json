@@ -1,0 +1,17 @@
+{
+  "name": "viviendas",
+  "version": "1.0.0",
+  "description": "listado de viviendas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Rodríguez Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.13"
+  }
+}

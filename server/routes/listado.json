@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "614dace067c05592cc9f4a2d"
+  },
+  "street": "Calle Serrano",
+  "number": 25,
+  "description": "vivienda situada en 5 planta con 240 metros cuadrados"
+},{
+  "_id": {
+    "$oid": "614dada367c05592cc9f4a2e"
+  },
+  "street": "Calle Ayala",
+  "number": 1,
+  "description": "vivienda situada en ultima planta de edificio de 7 alturas con terraza de 30 metros"
+}]
